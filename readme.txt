@@ -11,4 +11,8 @@ management strategy
 =======
 2222222222
 >>>>>>> feb
+<<<<<<< HEAD
 test 2
+=======
+test 1
+>>>>>>> dev
