@@ -6,4 +6,8 @@ Creating a new branch is quick.
 secend test about 
 Creating a new branch is quick AND simple.
 management strategy
+<<<<<<< HEAD
 1111111111111111111
+=======
+2222222222
+>>>>>>> feb
