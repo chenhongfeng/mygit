@@ -5,3 +5,4 @@ Git tracks changes of flies.
 Creating a new branch is quick.
 secend test about 
 Creating a new branch is quick AND simple.
+management strategy
